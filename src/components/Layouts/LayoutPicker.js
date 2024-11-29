@@ -24,9 +24,9 @@ const LayoutPicker = () => {
   return (
     <div>
       <div className="flex-box flex-end">
-        <div className="column-lg-3 column-md-3 column-sm-3">
+        {/* <div className="column-lg-3 column-md-3 column-sm-3">
           <ProgressBar completed={completedPercent} />
-        </div>
+        </div> */}
       </div>
       {layoutNumber === 1 && (
         <ImageLayout
