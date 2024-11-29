@@ -22,7 +22,7 @@ const DecisionLayout = (props) => {
      let data = input;
      localStorage.setItem(text, data);
      swal({
-      title: `Keep these feelings in mind as you progress through the scenario.`,
+      title: ``,
       text: `Your response: ${data}`,
     }).then(() => {
       advance();

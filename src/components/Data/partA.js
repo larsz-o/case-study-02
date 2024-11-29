@@ -65,7 +65,10 @@ options: [{text: `“I’ve heard from hospital staff that the pharmacy is a fri
   "6": {
     question: `<h3>A compromise</h3><p>Dr. Hendel liked your idea. The compromise by year four was to have a Day of Peace observed on April 16th. The Director of Spiritual Care sent a flier and notice to all staff, and a harpist played in the lobby from 11 am - 1pm, encompassing the time of the full event. This provided a way for those who wanted to participate to have something, but it was not so large as to create new trauma.</p>`,
     multipleSelect: false, 
-    type: "none", 
+    type: "open", 
+    options: [
+      {text: `What are you feeling about the decisions that were made?`, conditions: {type: null, command: '', index: null}, feedback: ``}
+    ],
     end: true
     },
   
