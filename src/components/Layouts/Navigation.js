@@ -44,7 +44,7 @@ const Navigation = (props) => {
     }).then((willDelete) => {
       if (willDelete) {
         props.updateScene(props.lesson[2]);
-        props.updateLayoutNumber(1)
+    
       } else {
         swal({ icon: "success", text: "Okay, continue on." });
       }
