@@ -273,12 +273,11 @@ const DecisionLayout = (props) => {
             <div className="col-sm-12 col-lg-10 col-md-10">
        
               <div className="decision-feedback">
-            <p>This was a complex situation, which may have raised a number of questions for you as you nagivated through it. Consider the following questions as you reflect on your interactions with Sergeant Ruiz.</p>
-            <ul><li>What went well in this situation? What tactics did the chaplain use to engage Sergeant Ruiz effectively?</li>
-              <li>What role did the Chain of Command play in relation to this situation?</li>
-              <li>When does a responsibility for care end, and what boundaries for care exist?</li>
-              <li>What responsibility does the chaplain have to care for the alleged perpetrator?</li>
-              </ul>
+            <p>This was a complex situation, which may have raised a number of questions for you as you nagivated through it. Consider the following questions as you reflect on the scenario.</p>
+            <ul><li>What went well in this situation? How did the chaplain work with stakeholders to memorialize a complex situation?</li>
+        <li>How might race, class, and gender have impacted how decisions were made in this situation?</li>
+        <li>How should organizations make decisions about memory in situations like this? For instance, putting the victims’ names on the monument, holding memorial services? Who should be involved in making these decisions? </li>
+        </ul>
             
               </div>
             </div>

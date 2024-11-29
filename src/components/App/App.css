@@ -16,6 +16,10 @@ a {
   text-decoration: none;
   color: #276fbf;
 }
+audio {
+  padding: 1em;
+  margin: 1em;
+}
 .text-light-div {
   padding: 1.5em;
   background-color: white;
