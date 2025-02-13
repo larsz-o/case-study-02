@@ -87,11 +87,7 @@ const Navigation = (props) => {
             Next &rarr;
           </button>
         )}
-      {props.activeScene.last && (
-        <button className="button" onClick={() => confirmEnd()}>
-          End lesson
-        </button>
-      )}
+  
       {props.activeScene.checkpoint && checkpointToDo && (
         <button className="button" onClick={() => changeOpen(true)}>
           Reflect and Assess

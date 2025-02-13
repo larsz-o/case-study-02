@@ -542,6 +542,7 @@ strong {
   background-color: rgb(215, 228, 41);
   color: black;
   font-weight: 500;
+  display: inline-block
 }
 strong::selection {
   background-color: white;
