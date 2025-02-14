@@ -14,13 +14,14 @@ const LayoutPicker = () => {
   const [completedPercent, updateCompletedPercent] = useState();
 
   useEffect(() => {
+    window.scrollTo(0,0);
     updateLayoutNumber(scene.layoutNumber);
     let completedPercent = (
       (parseInt(scene.scene_number) / Object.keys(lesson).length) *
       100
     ).toFixed(2);
     updateCompletedPercent(completedPercent);
-  }, []);
+  }, [lesson, scene.layoutNumber, scene.scene_number]);
   return (
     <div>
       <div className="flex-box flex-end">
