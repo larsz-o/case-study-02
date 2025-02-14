@@ -77,7 +77,7 @@ It started like a typical early spring day in southern California for Diana Hend
     text: [
       `<p>A few short hours later, Dr. Hendel stood next to the Mayor and Police Chief at a short televised press conference. "It is with a heavy heart that I address you today.” she said somberly. "I'm heartbroken to announce that two members of our employee family have been killed, and another is in critical condition.”</p><p>She took a shallow breath and continued explaining that throughout the entire event, "our first priority was to ensure the safety of our patients - and that they were well cared for.” She continued, "I can assure you that our patients are safe.”</p>
 
-<p>As details emerged, the hospital and public learned that, "A pharmacy technician showed up for work at Long Beach Memorial Medical Center…brandishing two handguns, killed his boss and another manager and then fatally shot himself.” <strong>This was not a random act as the perpetrator Mario Ramirez sought out and killed Hugo Bustamante and Kelly Hales before turning the gun on himself.</strong></p>`,
+<p>As details emerged, the hospital and public learned that, "A pharmacy technician showed up for work at Long Beach Memorial Medical Center…brandishing two handguns, killed his boss and another manager and then fatally shot himself.” </p><p><strong>This was not a random act as the perpetrator Mario Ramirez sought out and killed Hugo Bustamante and Kelly Hales before turning the gun on himself.</strong></p>`,
     ],
     title: null,
     videos: [],
