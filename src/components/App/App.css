@@ -16,6 +16,15 @@ a {
   text-decoration: none;
   color: #276fbf;
 }
+.user-feedback-div {
+  margin-top: 5vh;
+  margin-right: 10vh;
+  text-align: right;
+}
+.white {
+  color:white;
+  text-decoration: underline;
+}
 audio {
   padding: 1em;
   margin: 1em;
@@ -86,6 +95,7 @@ article > h4 {
 }
 audio {
   filter: grayscale(100%);
+  margin-bottom: 1em;
 }
 
 aside {

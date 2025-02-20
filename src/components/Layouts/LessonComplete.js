@@ -86,6 +86,13 @@ const LessonComplete = (props) => {
                 </div>
               )}
           </div>
+          <div className=" flex-box flex-end">
+            <div className="user-feedback-div column-lg-4 column-md-3 column-sm-12">
+            <strong>Have feedback to share?</strong>
+            <p><a href="https://form.fillout.com/t/p94ivyVVVsus" className="white">Let us know what you think</a> of this case study.</p>
+            </div>
+          
+            </div>
           <div className="flex-box flex-center cil-header">
             <div className="flex-box flex-column column-lg-12 column-sm-12 column-md-12">
               <div className="flex-box flex-center">
